@@ -23,7 +23,7 @@ Then add the dependency
 
 ```
 dependencies {
-    implementation("com.github.airsnapio:airsnap-android:0.0.3@aar") { transitive = true }
+    implementation("com.github.airsnapio:airsnap-android:0.0.4@aar") { transitive = true }
 }
 ```
 
